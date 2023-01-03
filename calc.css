@@ -1,0 +1,320 @@
+.alo {
+    position: relative;
+    background-color: grey;
+    border-radius: 15%;
+    width: 230px;
+    height: 280px;
+    cursor: pointer;
+}
+
+.asal {
+    position: absolute;
+    background-color: aliceblue;
+    border-radius: 2%;
+    top: 20px;
+    left: 20px;
+    width: 190px;
+    height: 40px;
+}
+
+.med {
+    position: absolute;
+    color: black;
+    top: -5px;
+    left: 165px;
+    font-size: 45px;
+}
+
+.oy {
+
+    position: relative;
+    background-color: white;
+    border-radius: 15%;
+    top: 85px;
+    left: 20px;
+    width: 40px;
+    height: 40px;
+}
+
+.moon {
+    position: absolute;
+    color: black;
+    top: -5px;
+    left: 10px;
+    font-size: 45px;
+}
+
+.hay {
+    position: absolute;
+    background-color: white;
+    border-radius: 15%;
+    top: 85px;
+    left: 70px;
+    width: 40px;
+    height: 40px;
+}
+
+.how {
+    position: absolute;
+    color: black;
+    top: -5px;
+    left: 10px;
+    font-size: 45px;
+}
+
+.olma {
+    position: absolute;
+    background-color: white;
+    border-radius: 15%;
+    top: 85px;
+    left: 120px;
+    width: 40px;
+    height: 40px;
+}
+
+.apple {
+    position: absolute;
+    color: black;
+    top: -5px;
+    left: 10px;
+    font-size: 45px;
+}
+
+.ari {
+    position: absolute;
+    background-color: white;
+    border-radius: 15%;
+    top: 85px;
+    left: 170px;
+    width: 40px;
+    height: 40px;
+}
+
+.bee {
+    position: absolute;
+    color: black;
+    text-align: center;
+    top: -5px;
+    left: 10px;
+    font-size: 40px;
+}
+
+.sut {
+    position: absolute;
+    background-color: white;
+    border-radius: 15%;
+    top: 130px;
+    left: 20px;
+    width: 40px;
+    height: 40px;
+}
+
+.milk {
+    position: absolute;
+    color: black;
+    top: -5px;
+    left: 10px;
+    font-size: 45px;
+}
+
+.ot {
+    position: absolute;
+    background-color: white;
+    border-radius: 15%;
+    top: 130px;
+    left: 70px;
+    width: 40px;
+    height: 40px;
+}
+
+.horse {
+    position: absolute;
+    color: black;
+    top: -5px;
+    left: 10px;
+    font-size: 45px;
+}
+
+.mol {
+    position: absolute;
+    background-color: white;
+    border-radius: 15%;
+    top: 130px;
+    left: 120px;
+    width: 40px;
+    height: 40px;
+}
+
+.cow {
+    position: absolute;
+    color: black;
+    top: -5px;
+    left: 10px;
+    font-size: 45px;
+}
+
+.mushuk {
+    position: absolute;
+    background-color: white;
+    border-radius: 15%;
+    top: 130px;
+    left: 170px;
+    width: 40px;
+    height: 40px;
+}
+
+.cat {
+    position: absolute;
+    color: black;
+    text-align: center;
+    top: -5px;
+    left: 10px;
+    font-size: 40px;
+}
+
+.piyola {
+    position: absolute;
+    background-color: white;
+    border-radius: 15%;
+    top: 175px;
+    left: 20px;
+    width: 40px;
+    height: 40px;
+}
+
+.cup {
+    position: absolute;
+    color: black;
+    top: -5px;
+    left: 10px;
+    font-size: 45px;
+}
+
+.choy {
+    position: absolute;
+    background-color: white;
+    border-radius: 15%;
+    top: 175px;
+    left: 70px;
+    width: 40px;
+    height: 40px;
+}
+
+.tea {
+    position: absolute;
+    color: black;
+    top: -5px;
+    left: 10px;
+    font-size: 45px;
+}
+
+.pichoq {
+    position: absolute;
+    background-color: white;
+    border-radius: 15%;
+    top: 175px;
+    left: 120px;
+    width: 40px;
+    height: 40px;
+}
+
+.knife {
+    position: absolute;
+    color: black;
+    top: -5px;
+    left: 10px;
+    font-size: 45px;
+}
+
+.suv {
+    position: absolute;
+    background-color: white;
+    border-radius: 15%;
+    top: 175px;
+    left: 170px;
+    width: 40px;
+    height: 40px;
+}
+
+.water {
+    position: absolute;
+    color: black;
+    text-align: center;
+    top: -10px;
+    left: 12px;
+    font-size: 45px;
+}
+
+.shaxmat {
+    position: absolute;
+    background-color: white;
+    border-radius: 15%;
+    top: 220px;
+    left: 20px;
+    width: 40px;
+    height: 40px;
+}
+
+.chess {
+    position: absolute;
+    color: black;
+    top: -5px;
+    left: 10px;
+    font-size: 45px;
+}
+
+.pishloq {
+    position: absolute;
+    background-color: white;
+    border-radius: 15%;
+    top: 220px;
+    left: 70px;
+    width: 40px;
+    height: 40px;
+}
+
+.cheese {
+    position: absolute;
+    color: black;
+    text-align: center;
+    top: -5px;
+    left: 12px;
+    font-size: 45px;
+}
+
+.uzum {
+    position: absolute;
+    background-color: white;
+    border-radius: 15%;
+    top: 220px;
+    left: 120px;
+    width: 40px;
+    height: 40px;
+}
+
+.grapes {
+    position: absolute;
+    color: black;
+    top: -3px;
+    left: 8px;
+    font-size: 40px;
+}
+
+.tugadi {
+    position: absolute;
+    background-color: white;
+    border-radius: 15%;
+    top: 220px;
+    left: 170px;
+    width: 40px;
+    height: 40px;
+}
+
+.finish {
+    position: absolute;
+    color: black;
+    top: -5px;
+    left: 7px;
+    width: 10px;
+    font-size: 45px;
+}
